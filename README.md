@@ -1,5 +1,9 @@
 # Spectral-and-Temporal-Reverb-Analysis-in-MATLAB
 
+# Citation
+
+Pareek, K. (2018). "An Implementation and Spectral Analysis of Reverberation Modules in MATLAB". Unpublished manuscript, New York University.
+
 # Abstract
 
 This study presents the digital implementation of five widely used reverberation modules in MATLAB. By employing concepts of digital filters and convolution, the models are intended to simulate a live acoustic space. A detailed spectral and temporal analysis is undertaken using graphical representation to gain an understanding of the modules’ influence on the time and frequency domain. Towards the end, the results of the study have been examined using acoustical analysis tools.
